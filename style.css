@@ -1,0 +1,16 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: Gotham ROunded, sans-serif;
+    font-weight: normal;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background: linear-gradient(to right, green, rgb(28, 82, 145) );
+}
+
+.calculator-grid {
+    display: grid;
+   
+}
